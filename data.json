@@ -1,0 +1,1112 @@
+{
+    "plats": {
+        "Poulet Curry": {
+            "temps": "45 min",
+            "difficulte": "Facile",
+            "tags": [
+                "Indien",
+                "Épicé",
+                "Familial"
+            ],
+            "ingredients": [
+                "150g de poulet",
+                "5cl de crème fraîche",
+                "10cl de lait de coco",
+                "1 c.à.c de curry"
+            ],
+            "instructions": "1. Faites revenir le poulet.\n2. Débarrassez le poulet et faites chauffer la crème fraîche, le lait de coco et la pâte de curry.\n3. Laissez mijoter 5 minutes et ajoutez le poulet."
+        },
+        "Ballottine de Volaille": {
+            "temps": "45 min",
+            "difficulte": "Difficile",
+            "tags": [
+                "Gastronomique",
+                "Technique",
+                "Blufant"
+            ],
+            "ingredients": [
+                "1 belle escalope de poulet (large et fine)",
+                "4 pétales de tomates confites (à l'huile)",
+                "1 gousse d'ail",
+                "Quelques feuilles de basilic frais",
+                "Film alimentaire (indispensable)",
+                "Beurre"
+            ],
+            "instructions": "1. Aplatissez bien l'escalope pour l'affiner sans la percer.\n2. Hachez l'ail, le basilic et les tomates, puis étalez ce mélange au centre de la viande.\n3. Roulez la viande sur elle-même très serré.\n4. Emballez ce boudin dans du film alimentaire en serrant très fort les extrémités (façon bonbon) pour chasser l'air.\n5. Plongez 15 min dans l'eau frémissante, sortez-le, retirez le film et faites dorer au beurre à la poêle."
+        },
+        "Shakshuka": {
+            "temps": "25 min",
+            "difficulte": "Facile",
+            "tags": [
+                "Oriental",
+                "Oeufs",
+                "Brunch"
+            ],
+            "ingredients": [
+                "2 oeufs",
+                "200g de pulpe de tomate",
+                "0.5 poivron rouge",
+                "0.5 oignon",
+                "1 c.à.c de cumin",
+                "1 c.à.c de paprika",
+                "Huile d'olive"
+            ],
+            "instructions": "1. Faites revenir oignon et poivron émincés dans l'huile d'olive.\n2. Ajoutez la tomate et les épices, laissez mijoter 10 min.\n3. Cassez les œufs par-dessus sans crever le jaune.\n4. Couvrez et laissez cuire à feu doux 5 min jusqu'à ce que le blanc fige."
+        },
+        "Poulet Satay": {
+            "temps": "25 min",
+            "difficulte": "Facile",
+            "tags": [
+                "Asie",
+                "Cacahuète",
+                "Gourmand"
+            ],
+            "ingredients": [
+                "150g de poulet",
+                "1 grosse c.à.s de beurre de cacahuète",
+                "10cl de lait de coco",
+                "1 c.à.s de sauce soja",
+                "0.5 citron vert"
+            ],
+            "instructions": "1. Coupez le poulet en morceaux et faites-le dorer à la poêle.\n2. Baissez le feu, ajoutez le beurre de cacahuète, le lait de coco et la sauce soja.\n3. Laissez mijoter et épaissir la sauce en remuant bien.\n4. Arrosez de jus de citron vert juste avant de servir (idéal avec du riz)."
+        },
+        "Pâtes Bolognaise": {
+            "temps": "20min",
+            "difficulte": "Moyen",
+            "tags": [
+                "Italie",
+                "Classique",
+                "Enfants"
+            ],
+            "ingredients": [
+                "100g de pâtes",
+                {
+                    "ou": [
+                        "120g de sauce bolognaise",
+                        [
+                            "100g de steak haché",
+                            "100g de sauce tomate"
+                        ]
+                    ]
+                }
+            ],
+            "instructions": "1. Faites cuire les pâtes.\n2. Versez la sauce bolognaise sur les pâtes ou faites cuire le steak haché et mélangez-le avec de la sauce tomate.\n3. Ajoutez un filet d'huile d'olive."
+        },
+        "Pizza Cannibale": {
+            "temps": "30 min",
+            "difficulte": "Facile",
+            "tags": [
+                "Convivial",
+                "Four",
+                "Viande"
+            ],
+            "ingredients": [
+                "1 pâte à pizza individuelle",
+                {
+                    "ou": [
+                        "3 c.à.s de sauce tomate",
+                        "3 c.à.s de sauce arrabiata"
+                    ]
+                },
+                "30g de fromage râpé",
+                "1 steak haché",
+                {
+                    "ou": [
+                        "1 merguez",
+                        "3 tranches de chorizo",
+                        "1 tranche de jambon"
+                    ]
+                }
+            ],
+            "instructions": "1. Versez la sauce sur la pâte.\n2. Mettez le steak haché en morceaux sur la pizza.\n3. Mettez la 2ème viande, saupoudrez de fromage râpé et mettez de l'origan."
+        },
+        "Pâtes Carbonara": {
+            "temps": "20 min",
+            "difficulte": "Facile",
+            "tags": [
+                "Italie",
+                "Gourmand",
+                "Rapide"
+            ],
+            "ingredients": [
+                "100g de pâtes",
+                "10cl de crème fraîche",
+                {
+                    "ou": [
+                        "75g de lardons",
+                        "75g de jambon"
+                    ]
+                }
+            ],
+            "instructions": "1. Faites cuire les pâtes dans de l’eau bouillante salée.\n2. Faites revenir les lardons ou le jambon dans une poêle.\n3. Ajoutez la crème fraîche et laissez mijoter 2 minutes.\n4. Mélangez avec les pâtes égouttées et servez chaud."
+        },
+        "Gnocchis Carbonara": {
+            "temps": "25 min",
+            "difficulte": "Facile",
+            "tags": [
+                "Revisité",
+                "Gourmand"
+            ],
+            "ingredients": [
+                "200g de gnocchis",
+                "10cl de crème fraîche",
+                {
+                    "ou": [
+                        "75g de lardons",
+                        "75g de jambon"
+                    ]
+                }
+            ],
+            "instructions": "1. Faites cuire les gnocchis à feu vif pour qu'ils grillent puis baisser à feu doux pour les cuire de l'intérieur.\n2. Faites revenir lardons ou jambon dans une poêle.\n3. Ajoutez la crème fraîche, remuez bien.\n4. Incorporez les gnocchis et servez bien chaud."
+        },
+        "Patate carré fondante": {
+            "temps": "35 min",
+            "difficulte": "Facile",
+            "tags": [
+                "Accompagnement",
+                "Veggie"
+            ],
+            "ingredients": [
+                "300g de patates",
+                "0.5 gousse d'ail"
+            ],
+            "instructions": "1. Coupez les patates en cubes.\n2. Faites-les revenir avec de l’huile d’olive et de l’ail semoule.\n3. Mettez le tout dans une friteuse sans huile pendant 20 minutes tout en remettant de l'ail et du sel au bout de 10min."
+        },
+        "Pâtes Arrabiata": {
+            "temps": "25 min",
+            "difficulte": "Facile",
+            "tags": [
+                "Italie",
+                "Piquant",
+                "Veggie"
+            ],
+            "ingredients": [
+                "100g de pâtes",
+                "80g de sauce arrabiata",
+                "1 c.à.s d'huile d'olive"
+            ],
+            "instructions": "1. Faites cuire les pâtes.\n2. Chauffez la sauce arrabiata dans une casserole.\n3. Égouttez les pâtes et mélangez-les à la sauce.\n4. Servez avec du parmesan râpé si vous aimez."
+        },
+        "Brochette de poulet mariné": {
+            "temps": "1h30",
+            "difficulte": "Facile",
+            "tags": [
+                "BBQ",
+                "Été",
+                "Sucré-Salé"
+            ],
+            "ingredients": [
+                "150g de poulet",
+                "1 c.à.s de crème fraîche",
+                "1 c.à.s de miel"
+            ],
+            "instructions": "1. Coupez le poulet en cubes.\n2. Mélangez avec la crème, le miel et vos épices préférées.\n3. Laissez mariner 1h au frais.\n4. Enfilez sur des pics et faites cuire à la poêle ou au four."
+        },
+        "Gratin au saumon": {
+            "temps": "45 min",
+            "difficulte": "Moyen",
+            "tags": [
+                "Poisson",
+                "Four",
+                "Familial"
+            ],
+            "ingredients": [
+                "100g de pâtes",
+                "40g de fromage râpé",
+                "10cl de crème fraîche",
+                {
+                    "ou": [
+                        "1 pavé de saumon",
+                        "70g de saumon fumé"
+                    ]
+                }
+            ],
+            "instructions": "1. Faites cuire les pâtes.\n2. Dans un plat à gratin individuel, mélangez-les avec crème, fromage râpé et saumon.\n3. Salez et enfournez 30 min à 180°C.\n4. Servez doré et grillé."
+        },
+        "Gratin au lardon": {
+            "temps": "40 min",
+            "difficulte": "Facile",
+            "tags": [
+                "Hiver",
+                "Reconfort",
+                "Four"
+            ],
+            "ingredients": [
+                "100g de pâtes",
+                "40g de fromage",
+                "10cl de crème fraîche",
+                {
+                    "ou": [
+                        "75g de lardons",
+                        "75g de jambon"
+                    ]
+                }
+            ],
+            "instructions": "1. Faites cuire les pâtes.\n2. Faites revenir les lardons ou le jambon dans une poêle.\n3. Mélangez les pâtes avec la crème et les lardons.\n4. Versez dans un plat individuel, ajoutez le fromage, enfournez 20 min à 180°C."
+        },
+        "Poulet sauce soja salé": {
+            "temps": "15 min",
+            "difficulte": "Très Facile",
+            "tags": [
+                "Asie",
+                "Rapide",
+                "Sain"
+            ],
+            "ingredients": [
+                "1 escalope de poulet",
+                "3 c.à.s de sauce soja salée"
+            ],
+            "instructions": "1. Coupez le poulet. \n2. Faites revenir à la poêle.\n3. Déglacez à la sauce soja salée en fin de cuisson."
+        },
+        "Poulet sauce soja sucré": {
+            "temps": "20 min",
+            "difficulte": "Facile",
+            "tags": [
+                "Asie",
+                "Sucré-Salé",
+                "Enfants"
+            ],
+            "ingredients": [
+                "1 escalope de poulet",
+                "3 c.à.s de sauce soja sucrée",
+                "1 c.à.c de maïzena"
+            ],
+            "instructions": "1. Coupez le poulet en morceaux.\n2. Faites-le revenir avec un peu d’huile.\n3. Ajoutez la sauce soja sucrée et la maïzena diluée dans un peu d’eau si possible.\n4. Laissez épaissir, servez avec du riz."
+        },
+        "Gnocchis Arrabiata": {
+            "temps": "20 min",
+            "difficulte": "Facile",
+            "tags": [
+                "Italie",
+                "Piquant",
+                "Rapide"
+            ],
+            "ingredients": [
+                "200g de gnocchis",
+                "120g de sauce arrabiata"
+            ],
+            "instructions": "1. Faites griller les gnocchis à la poêle.\n2. Chauffez la sauce arrabiata.\n3. Mélangez les gnocchis à la sauce et servez chaud."
+        },
+        "Pâtes au poulet": {
+            "temps": "25 min",
+            "difficulte": "Facile",
+            "tags": [
+                "Familial",
+                "Complet"
+            ],
+            "ingredients": [
+                "100g de pâtes",
+                "120g de poulet",
+                "10cl de crème fraîche"
+            ],
+            "instructions": "1. Faites cuire les pâtes.\n2. Faites revenir le poulet avec de l’ail.\n3. Ajoutez la crème fraîche et les épices curry, laissez mijoter.\n4. Mélangez aux pâtes et servez chaud."
+        },
+        "Pâtes Carbonara +": {
+            "temps": "30 min",
+            "difficulte": "Moyen",
+            "tags": [
+                "Gourmand",
+                "Revisité"
+            ],
+            "ingredients": [
+                "100g de pâtes",
+                "0.5 oignon",
+                "1 gousse d'ail",
+                "10cl de crème fraîche",
+                {
+                    "ou": [
+                        "75g de lardons",
+                        "75g de jambon",
+                        "75g de lard"
+                    ]
+                },
+                "1 c.à.c de moutarde à l'ancienne"
+            ],
+            "instructions": "1. Faites chauffer un filet d'huile d'olive.\n2. Ajoutez l’oignon émincé et un peu d’ail haché.\n3. Ajoutez les lardons, jambon ou lard.\n4. Baissez le feu, incorporez crème fraîche et moutarde.\n5. Poivrez et laissez mijoter 2-3 min.\n6. Mélangez les pâtes et parsemez de persil."
+        },
+        "Pâtes au chorizo": {
+            "temps": "20 min",
+            "difficulte": "Facile",
+            "tags": [
+                "Épicé",
+                "Rapide"
+            ],
+            "ingredients": [
+                "100g de pâtes",
+                "10cl de crème fraîche",
+                "50g de chorizo"
+            ],
+            "instructions": "1. Faites cuire les pâtes.\n2. Faites revenir le chorizo en rondelles pour libérer les sucs.\n3. Ajoutez la crème et laissez cuire 2 minutes.\n4. Mélangez le tout avec les pâtes et servez chaud."
+        },
+        "Pâtes au saumon": {
+            "temps": "25 min",
+            "difficulte": "Moyen",
+            "tags": [
+                "Poisson",
+                "Raffiné"
+            ],
+            "ingredients": [
+                "100g de pâtes",
+                "10cl de crème fraîche",
+                "100g de saumon"
+            ],
+            "instructions": "1. Faites cuire les pâtes.\n2. Coupez le saumon en morceaux et faites-le revenir doucement.\n3. Ajoutez la crème et laissez cuire 3 minutes.\n4. Incorporez aux pâtes et servez avec de l’aneth."
+        },
+        "Pâtes au thon": {
+            "temps": "15 min",
+            "difficulte": "Très Facile",
+            "tags": [
+                "Rapide",
+                "Étudiant",
+                "Poisson"
+            ],
+            "ingredients": [
+                "100g de pâtes",
+                "10cl de crème fraîche",
+                "1 petite boîte de thon (80g)"
+            ],
+            "instructions": "1. Faites cuire les pâtes.\n2. Égouttez le thon et émiettez-le dans une poêle avec la crème.\n3. Faites chauffer doucement.\n4. Ajoutez aux pâtes et mélangez bien."
+        },
+        "Tenders maison": {
+            "temps": "30 min",
+            "difficulte": "Moyen",
+            "tags": [
+                "US",
+                "Friture",
+                "Enfants"
+            ],
+            "ingredients": [
+                "150g de poulet",
+                "30g de farine",
+                "1 oeuf",
+                "2cl de lait"
+            ],
+            "instructions": "1. Coupez le poulet en lanières.\n2. Trempez-les dans le lait, puis farine, œuf battu, puis farine à nouveau avec paprika et curry.\n3. Faites frire dans l’huile chaude.\n4. Égouttez sur du papier absorbant."
+        },
+        "Chili con carne": {
+            "temps": "45 min",
+            "difficulte": "Facile",
+            "tags": [
+                "Tex-Mex",
+                "Épicé",
+                "Convivial"
+            ],
+            "ingredients": [
+                "125g de steak haché",
+                "150g de haricots rouges (petite boite)",
+                "150g de sauce tomate",
+                {
+                    "ou": [
+                        "70g de riz",
+                        "70g de pâtes"
+                    ]
+                }
+            ],
+            "instructions": "1. Faites revenir le steak haché.\n2. Ajoutez les haricots rouges et la sauce tomate.\n3. Laissez mijoter 15 minutes.\n4. Servez avec du riz ou des pâtes."
+        },
+        "Wrap steak haché": {
+            "temps": "20 min",
+            "difficulte": "Facile",
+            "tags": [
+                "Sandwich",
+                "Rapide"
+            ],
+            "ingredients": [
+                "2 tortillas",
+                "1 steak haché",
+                {
+                    "ou": [
+                        "0.5 oignon",
+                        "0.5 c.à.c de harissa",
+                        "1 c.à.s de crème fraîche",
+                        "0.5 gousse d'ail",
+                        "20g de sauce tomate",
+                        "20g de sauce arrabiata"
+                    ]
+                },
+                {
+                    "ou": [
+                        "20g de sauce tomate",
+                        "20g de sauce arrabiata"
+                    ]
+                }
+            ],
+            "instructions": "1. Faites revenir le steak haché.\n2. Ajoutez oignons, ail et sauce.\n3. Chauffez la tortilla à la poêle.\n4. Garnissez et roulez."
+        },
+        "Nuggets maison": {
+            "temps": "30 min",
+            "difficulte": "Moyen",
+            "tags": [
+                "Enfants",
+                "Friture"
+            ],
+            "ingredients": [
+                "150g de poulet",
+                "20g de farine",
+                "20g de maïzena",
+                {
+                    "ou": [
+                        "30g de pain",
+                        "30g de panure",
+                        "30g de biscotte",
+                        "30g de chapelure"
+                    ]
+                }
+            ],
+            "instructions": "1. Coupez le poulet en petits morceaux.\n2. Passez-les dans la farine, puis dans l’œuf battu, puis dans la chapelure.\n3. Faites frire à feu moyen jusqu’à dorure.\n4. Égouttez et servez."
+        },
+        "Wrap Merguez": {
+            "temps": "25 min",
+            "difficulte": "Facile",
+            "tags": [
+                "Sandwich",
+                "Piquant"
+            ],
+            "ingredients": [
+                "2 tortillas",
+                "1 steak haché",
+                "1 merguez",
+                {
+                    "ou": [
+                        "0.5 oignon",
+                        "0.5 c.à.c harissa",
+                        "1 c.à.s crème fraîche",
+                        "0.5 ail",
+                        "20g sauce tomate",
+                        "20g sauce arrabiata"
+                    ]
+                },
+                {
+                    "ou": [
+                        "20g sauce tomate",
+                        "20g sauce arrabiata"
+                    ]
+                }
+            ],
+            "instructions": "1. Faites revenir steak et merguez.\n2. Ajoutez sauces et condiments.\n3. Chauffez la tortilla.\n4. Garnissez et servez."
+        },
+        "Burger bacon steak": {
+            "temps": "30 min",
+            "difficulte": "Moyen",
+            "tags": [
+                "US",
+                "Fat",
+                "Gourmand"
+            ],
+            "ingredients": [
+                "0.5 oignon",
+                "1 steak haché",
+                "1 c.à.c de miel",
+                "2 tranches de bacon",
+                "1 pain à burger",
+                {
+                    "ou": [
+                        "0.5 gousse d'ail",
+                        "0.5 oignon",
+                        "2 rondelles de tomate"
+                    ]
+                }
+            ],
+            "instructions": "1. Faites revenir l’oignon en tranches.\n2. Faites cuire le steak avec un peu de miel.\n3. Faites griller le bacon, puis le pain à burger.\n4. Assemblez le tout."
+        },
+        "Frites": {
+            "temps": "40 min",
+            "difficulte": "Moyen",
+            "tags": [
+                "Accompagnement",
+                "Friture"
+            ],
+            "ingredients": [
+                "300g de patates"
+            ],
+            "instructions": "1. Épluchez et coupez les patates.\n2. Trempez 10 min dans l’eau froide.\n3. Égouttez, séchez puis faites frire.\n4. Salez et dégustez."
+        },
+        "Pommes de terre soja": {
+            "temps": "35 min",
+            "difficulte": "Facile",
+            "tags": [
+                "Four",
+                "Original",
+                "Accompagnement"
+            ],
+            "ingredients": [
+                "300g de patates",
+                "3 c.à.s de sauce soja",
+                {
+                    "ou": [
+                        "1 gousse d'ail",
+                        "1 c.à.c de miel"
+                    ]
+                }
+            ],
+            "instructions": "1. Coupez les pommes de terre en morceaux.\n2. Mélangez avec sauce soja, ail et/ou miel.\n3. Étalez sur plaque, enfournez à 200°C 30 min.\n4. Retournez à mi-cuisson."
+        },
+        "Poulet Katsu": {
+            "temps": "40 min",
+            "difficulte": "Moyen",
+            "tags": [
+                "Japon",
+                "Friture",
+                "Croustillant"
+            ],
+            "ingredients": [
+                "1 escalope de poulet",
+                "30g de farine",
+                "1 oeuf",
+                {
+                    "ou": [
+                        "0.5 gousse d'ail",
+                        "1 c.à.c de miel"
+                    ]
+                },
+                {
+                    "ou": [
+                        "30g de pain",
+                        "30g de panure",
+                        "30g de biscotte",
+                        "30g de chapelure",
+                        [
+                            "15g de farine",
+                            "15g de maïzena"
+                        ]
+                    ]
+                }
+            ],
+            "instructions": "1. Coupez le poulet en escalopes.\n2. Trempez dans farine, œuf, puis chapelure.\n3. Faites frire jusqu’à dorure.\n4. Servez avec riz et sauce tonkatsu."
+        },
+        "Ribs confits": {
+            "temps": "3h00",
+            "difficulte": "Difficile",
+            "tags": [
+                "BBQ",
+                "US",
+                "Lent"
+            ],
+            "ingredients": [
+                "350g de ribs (travers de porc)",
+                "1 gousse d'ail",
+                "1 c.à.s de miel",
+                "1 c.à.c de cognac",
+                "1 c.à.s de vinaigre de riz",
+                "1 c.à.c de sauce piquante"
+            ],
+            "instructions": "1. Marinez les ribs (ail, paprika, cumin, sel, poivre).\n2. Préparez la sauce (cognac, miel, vinaigre, sauce piquante).\n3. Cuisez au BBQ 2h30.\n4. Laquez avec la sauce en fin de cuisson."
+        },
+        "Poulet frit": {
+            "temps": "40 min",
+            "difficulte": "Moyen",
+            "tags": [
+                "US",
+                "Friture",
+                "Fat"
+            ],
+            "ingredients": [
+                "150g de poulet",
+                "5cl de crème fraîche",
+                {
+                    "ou": [
+                        "30g de pain",
+                        "30g de panure",
+                        "30g de biscotte",
+                        "30g de chapelure",
+                        [
+                            "15g de farine",
+                            "15g de maïzena"
+                        ]
+                    ]
+                }
+            ],
+            "instructions": "1. Marinez le poulet avec épices et crème.\n2. Enrobez de farine/maïzena ou panure.\n3. Cuire dans l'huile 6 min à 180°C."
+        },
+        "Côte de boeuf au miel": {
+            "temps": "7 jours",
+            "difficulte": "Expert",
+            "tags": [
+                "Luxe",
+                "Patience",
+                "Viande"
+            ],
+            "ingredients": [
+                "1 belle entrecôte ou côte de bœuf individuelle (350g)",
+                "30g de miel",
+                "1 échalote",
+                "5cl de crème fraîche"
+            ],
+            "instructions": "1. Marinez la viande (sel, poivre) 2h au frigo.\n2. Arrosez de miel et marinez 7 jours.\n3. Sauce : échalote flambée au cognac + moutarde + miel marinade + crème.\n4. Cuisez la viande et servez avec la sauce."
+        },
+        "Chips": {
+            "temps": "20 min",
+            "difficulte": "Technique",
+            "tags": [
+                "Apéro",
+                "Friture"
+            ],
+            "ingredients": [
+                "1 grosse pomme de terre"
+            ],
+            "instructions": "1. Coupez les pommes de terre en tranches très fines.\n2. Rincez et séchez bien.\n3. Faites frire à feu moyen.\n4. Égouttez et salez."
+        },
+        "Épaule d'agneau confite": {
+            "temps": "5h30",
+            "difficulte": "Expert",
+            "tags": [
+                "Festif",
+                "Lent",
+                "Four"
+            ],
+            "ingredients": [
+                "1 souris d'agneau ou 250g d'épaule",
+                "2 gousses d'ail",
+                {
+                    "ou": [
+                        "0.5 citron vert",
+                        "1 branche de céleri",
+                        "1 oignon"
+                    ]
+                }
+            ],
+            "instructions": "1. Marinez l'agneau.\n2. Saisir la viande à feu vif.\n3. Dans un plat scellé (alu+sulfu), mettez viande, oignon, céleri, beurre, jus de citron.\n4. Cuire 5h à 135°C.\n5. Sortir et rôtir 10 min à 220°C."
+        },
+        "Cuisse poulet BBQ": {
+            "temps": "50 min",
+            "difficulte": "Facile",
+            "tags": [
+                "BBQ",
+                "Italie"
+            ],
+            "ingredients": [
+                "1 ou 2 cuisses de poulet",
+                "1 gousse d'ail",
+                "0.25 bouquet de persil",
+                "0.25 bouquet de basilic",
+                {
+                    "ou": [
+                        "20g de pignons de pin",
+                        "20g de pain",
+                        "20g de biscotte"
+                    ]
+                }
+            ],
+            "instructions": "1. Marinez les cuisses (ail, persil, basilic).\n2. Enrobez de pain mixé ou pignons.\n3. Cuisez au BBQ ou four 45 min à 180°C."
+        },
+        "Boeuf croustillant": {
+            "temps": "30 min",
+            "difficulte": "Moyen",
+            "tags": [
+                "Asie",
+                "Friture",
+                "Sucré-Salé"
+            ],
+            "ingredients": [
+                "1 oeuf",
+                "20g de maïzena",
+                "1 c.à.s de vinaigre de riz",
+                "1 c.à.s de sauce soja",
+                "1 c.à.s de miel",
+                "0.5 gousse d'ail",
+                "1 c.à.c de concentré de tomate",
+                "70g de riz",
+                {
+                    "ou": [
+                        "150g de boeuf",
+                        "150g de rumsteak",
+                        "150g de bavette",
+                        "150g de steak"
+                    ]
+                }
+            ],
+            "instructions": "1.Lancez la cuisson du riz. Coupez le bœuf en fines lamelles.\n2.Battez l'œuf avec sel et poivre. Trempez-y le bœuf, puis roulez généreusement chaque morceau dans la maïzena.\n3.Faites frire le bœuf dans une poêle avec de l'huile chaude jusqu'à ce qu'il soit bien doré et croustillant. Réservez sur du papier absorbant.\n4.Jetez l'huile mais gardez la poêle. Faites revenir l'ail haché, puis ajoutez le concentré de tomate, la sauce soja, le miel et le vinaigre.\n5.Laissez la sauce épaissir (devenir sirupeuse), puis jetez-y le bœuf pour bien l'enrober. Servez chaud avec le riz.."
+        },
+        "Tartare de bavette": {
+            "temps": "20 min",
+            "difficulte": "Moyen",
+            "tags": [
+                "Cru",
+                "Bistrot"
+            ],
+            "ingredients": [
+                "180g de bavette",
+                "0.5 échalote",
+                "0.5 gousse d'ail",
+                "Quelques feuilles de basilic",
+                "2 tomates confites",
+                "1 c.à.c de moutarde",
+                {
+                    "ou": [
+                        "10g de noix de pécan",
+                        "10g de cacahuètes"
+                    ]
+                },
+                "1 jaune d'oeuf"
+            ],
+            "instructions": "1. Hachez la viande.\n2. Mélangez avec condiments émincés.\n3. Assaisonnez et servez frais avec un jaune d'œuf."
+        },
+        "Coxinhas de poulet": {
+            "temps": "1h30",
+            "difficulte": "Difficile",
+            "tags": [
+                "Brésil",
+                "Snack",
+                "Friture"
+            ],
+            "ingredients": [
+                "100g de poulet",
+                "1 gousse d'ail",
+                "0.5 oignon",
+                {
+                    "ou": [
+                        "10g de noix de pécan",
+                        "10g de cacahuètes"
+                    ]
+                },
+                "80g de farine",
+                "1 oeuf",
+                {
+                    "ou": [
+                        "40g de pain",
+                        "40g de panure",
+                        "40g de biscotte",
+                        "40g de chapelure",
+                        [
+                            "20g de farine",
+                            "20g de maïzena"
+                        ]
+                    ]
+                },
+                "20g de beurre",
+                "10cl de lait",
+                "1 pincée de sel",
+                "1 pincée de poivre",
+                "Huile de friture"
+            ],
+            "instructions": "1. Pochez et effilochez le poulet.\n2. Faites revenir avec oignon/ail.\n3. Préparez la pâte (farine+lait+beurre).\n4. Formez les coxinhas farcies.\n5. Panez et faites frire."
+        },
+        "Sancocho": {
+            "temps": "1h30",
+            "difficulte": "Moyen",
+            "tags": [
+                "Latino",
+                "Soupe",
+                "Hiver"
+            ],
+            "ingredients": [
+                "0.5 oignon",
+                "0.5 banane plantain",
+                "150g de manioc",
+                {
+                    "ou": [
+                        "150g de bavette",
+                        "150g de steak haché",
+                        "150g de poulet"
+                    ]
+                },
+                "1 gousse d'ail",
+                "0.5 épi de maïs",
+                "1 carotte",
+                "1 pomme de terre",
+                "Coriandre fraîche",
+                "1 pincée de sel",
+                "1 pincée de poivre",
+                "1 c.à.s d'huile"
+            ],
+            "instructions": "1. Faites revenir oignon, ail, viande.\n2. Ajoutez légumes coupés et maïs.\n3. Couvrez d'eau, salez, poivrez.\n4. Mijoter 1h.\n5. Parsemez de coriandre."
+        },
+        "Röstis": {
+            "temps": "1h10",
+            "difficulte": "Moyen",
+            "tags": [
+                "convivial",
+                "chaud"
+            ],
+            "ingredients": [
+                {
+                    "ou": [
+                        "300g de pommes de terre",
+                        "300g de patates"
+                    ]
+                },
+                "2cl d'huile",
+                "1 pincée de sel",
+                "1 pincée de poivre",
+                "0.5 oignon"
+            ],
+            "instructions": "1. Les pommes de terre : peler, râper de façon à obtenir des tubes de 5 mm de diamètre. Saler, poivrer, mélanger.\\n2. Chauffer l'huile dans une poêle à frire.\\n3. Emincer l'oignon et faites le rissoler. Ajouter les pommes de terre, les aplatir en une galette et rôtir à couvert pendant environ 30 minutes. Servir avec des lardons et un oeuf au plat..",
+            "type_plat": "Custom"
+        },
+        "Riz sauté": {
+            "temps": "15 min",
+            "difficulte": "Facile",
+            "tags": [
+                "Rapide",
+                "Asiatique",
+                "Simple"
+            ],
+            "ingredients": [
+                "1 bol de riz",
+                "2 oeufs",
+                {
+                    "ou": [
+                        "0.5 oignon",
+                        "1 échalote"
+                    ]
+                },
+                "1 gousse d'ail",
+                "1 cuillère à soupe de sauce soja",
+                "huile",
+                "sel",
+                "poivre"
+            ],
+            "instructions": "1. Coupez l’oignon, fais-le revenir dans une poêle avec un peu d’huile.\n2. Écrasez l’ail, ajoute-le 30 secondes.\n3. Cassez les œufs dans la poêle, brouillez rapidement (comme des œufs brouillés).\n4. Metez le riz cuit dans la poêle, mélangez bien pour qu’il se sépare et prenne le goût.\n5. Ajoutez la sauce soja, goûtez, ajustez sel/poivre, laissez sauter 2–3 minutes pour griller un peu → c’est ça qui donne le goût."
+        }
+    },
+    "sauces": {
+        "Sauce Tomate": {
+            "temps": "40 min",
+            "difficulte": "Facile",
+            "tags": [
+                "Base",
+                "Vegan",
+                "Pâtes"
+            ],
+            "ingredients": [
+                "2 grosses tomates",
+                "1 c.à.s d'huile d'olive",
+                "1 gousse d'ail",
+                "1 pincée de sel"
+            ],
+            "instructions": "Faire revenir l'ail dans l'huile, ajouter les tomates, saler, mijoter 20min."
+        },
+        "Sauce Arrabiata": {
+            "temps": "30 min",
+            "difficulte": "Facile",
+            "tags": [
+                "Piquant",
+                "Italie"
+            ],
+            "ingredients": [
+                "150g de tomates pelées",
+                "1 gousse d'ail",
+                "1 c.à.s d'huile d'olive",
+                "0.5 piment rouge",
+                "0.5 oignon",
+                "1 pincée de sel",
+                "1 pincée de poivre",
+                "Quelques feuilles de basilic frais"
+            ],
+            "instructions": "1. Hachez ail, oignon, piment. Revenir dans l'huile.\n2. Ajoutez tomates, écrasez.\n3. Mijotez 20 min.\n4. Ajoutez basilic frais."
+        },
+        "Sauce Cocktail": {
+            "temps": "10 min",
+            "difficulte": "Moyen",
+            "tags": [
+                "Froid",
+                "Apéro"
+            ],
+            "ingredients": [
+                "1 jaune d'oeuf",
+                "1 c.à.c de vinaigre de cidre",
+                "1 c.à.c de moutarde",
+                "1 pincée de sel",
+                "1 pincée de piment",
+                "10cl d'huile neutre",
+                "1 c.à.s de ketchup",
+                "1 c.à.c de whisky"
+            ],
+            "instructions": "1. Mélangez jaune d'œuf, moutarde, vinaigre.\n2. Montez à l'huile (mayonnaise).\n3. Ajoutez ketchup et whisky."
+        },
+        "Sauce Miel Fouettée": {
+            "temps": "5 min",
+            "difficulte": "Très Facile",
+            "tags": [
+                "Froid",
+                "Sucré-Salé"
+            ],
+            "ingredients": [
+                "2 c.à.s de miel",
+                "1 pincée de piment",
+                "1 pincée de sel",
+                "1 pincée de poivre",
+                "1 pincée d'ail en poudre",
+                "1 pincée de paprika"
+            ],
+            "instructions": "1. Mélangez tout dans un bol.\n2. Fouettez bien.\n3. Servez sur poulet frit/rôti."
+        },
+        "Sauce Barbecue": {
+            "temps": "20 min",
+            "difficulte": "Facile",
+            "tags": [
+                "US",
+                "Grillade"
+            ],
+            "ingredients": [
+                "20g de sucre roux",
+                "0.5 oignon frit",
+                "0.5 c.à.c de paprika fumé",
+                "1 c.à.c de moutarde",
+                "2 c.à.s de ketchup",
+                "1 c.à.s de vinaigre de cidre",
+                "1 c.à.c de sauce soja salée",
+                "1 c.à.c d'huile d'olive"
+            ],
+            "instructions": "1. Chauffez huile, oignon frit.\n2. Ajoutez ketchup, moutarde, sucre, paprika.\n3. Ajoutez vinaigre, soja.\n4. Mijotez 15 min."
+        },
+        "Sauce au Poivre": {
+            "temps": "15 min",
+            "difficulte": "Moyen",
+            "tags": [
+                "Classique",
+                "Viande"
+            ],
+            "ingredients": [
+                "10g de beurre",
+                "1 échalote",
+                "1 c.à.c de grains de poivre noir concassés",
+                "10cl de crème fraîche liquide",
+                {
+                    "ou": [
+                        "5cl de fond de veau",
+                        "0.5 bouillon cube"
+                    ]
+                },
+                "1 pincée de sel"
+            ],
+            "instructions": "1. Revenir échalote dans beurre.\n2. Ajouter poivre, fond de veau, réduire.\n3. Ajouter crème, épaissir.\n4. Assaisonner."
+        },
+        "Sauce Chimichurri": {
+            "temps": "15 min",
+            "difficulte": "Facile",
+            "tags": [
+                "Argentine",
+                "Cru",
+                "Viande"
+            ],
+            "ingredients": [
+                "1 c.à.s de ciboulette",
+                "1 c.à.s de persil",
+                "0.5 piment frais",
+                "0.5 oignon rouge",
+                "1 gousse d'ail",
+                "0.5 jus de citron",
+                "1 c.à.s de vinaigre de vin rouge",
+                "3 c.à.s d'huile d'olive",
+                "1 pincée de sel",
+                "1 pincée de poivre",
+                "0.5 c.à.c d'origan"
+            ],
+            "instructions": "1. Émincez tout finement.\n2. Mélangez avec les liquides.\n3. Laissez reposer 30 min avant de servir."
+        },
+        "Sauce Spécial Entrecôte": {
+            "temps": "20 min",
+            "difficulte": "Technique",
+            "tags": [
+                "Bistrot",
+                "Riche"
+            ],
+            "ingredients": [
+                "1 échalote",
+                "1 c.à.s de persil",
+                "1 gousse d'ail",
+                "40g de beurre",
+                "1 c.à.c de moutarde",
+                "1 jaune d'oeuf",
+                "1 pincée de sel"
+            ],
+            "instructions": "1. Revenir échalote/persil/ail dans beurre.\n2. Fouettez jaune d'œuf et moutarde.\n3. Incorporez le mélange chaud petit à petit."
+        },
+        "Sauce Marchand de Vin": {
+            "temps": "25 min",
+            "difficulte": "Moyen",
+            "tags": [
+                "Classique",
+                "Viande rouge"
+            ],
+            "ingredients": [
+                "1 échalote",
+                "10cl de vin rouge",
+                "5cl de jus de viande",
+                "15g de beurre"
+            ],
+            "instructions": "1. Revenir échalote.\n2. Déglacer au vin, réduire.\n3. Ajouter jus de viande, épaissir.\n4. Monter au beurre."
+        },
+        "Sauce Tigre qui pleure": {
+            "temps": "15 min",
+            "difficulte": "Facile",
+            "tags": [
+                "Thaï",
+                "Piquant"
+            ],
+            "ingredients": [
+                "Quelques brins de coriandre",
+                "1cm de gingembre",
+                "1 gousse d'ail",
+                "1 c.à.c d'huile de sésame",
+                "2 c.à.s de sauce soja sucrée",
+                "1 c.à.c de mirin",
+                "0.5 piment oiseau"
+            ],
+            "instructions": "1. Chauffer huile sésame, revenir ail/gingembre/piment.\n2. Ajouter soja, mirin, mijoter.\n3. Ajouter coriandre hors du feu."
+        },
+        "Sauce Café de Paris": {
+            "temps": "20 min",
+            "difficulte": "Moyen",
+            "tags": [
+                "Beurre",
+                "Herbes"
+            ],
+            "ingredients": [
+                "1 gousse d'ail",
+                "1 pincée de sauge",
+                "1 pincée de basilic",
+                "1 pincée de thym",
+                "1 pincée de romarin",
+                "1 c.à.c de persil",
+                "40g de beurre pommade",
+                "1 c.à.c de moutarde",
+                "0.5 c.à.c de curry",
+                "1 trait de jus de citron",
+                "1 c.à.c de crème fraîche liquide"
+            ],
+            "instructions": "1. Hachez les herbes.\n2. Mélangez au beurre pommade avec moutarde/curry/citron.\n3. Incorporez crème liquide."
+        },
+        "Sauce Chien": {
+            "temps": "15 min",
+            "difficulte": "Facile",
+            "tags": [
+                "Antilles",
+                "Exotique"
+            ],
+            "ingredients": [
+                "0.25 piment",
+                "1 cive",
+                "0.25 oignon",
+                "1 pincée de girofle",
+                "1 pincée de poivre",
+                "1 branche de thym",
+                "1 pincée de sel",
+                "0.5 gousse d'ail",
+                "1 c.à.c de persil",
+                "2cl d'huile neutre",
+                "2cl d'eau chaude"
+            ],
+            "instructions": "1. Hachez les aromates.\n2. Faites revenir doucement dans l'huile.\n3. Ajoutez un peu d'eau chaude (eau bouillante) pour créer l'émulsion."
+        },
+        "Sauce Miel Moutarde": {
+            "temps": "10 min",
+            "difficulte": "Très Facile",
+            "tags": [
+                "Classique",
+                "Sucré-Salé"
+            ],
+            "ingredients": [
+                "0.5 échalote",
+                "1 c.à.c d'huile d'olive",
+                "1 c.à.s de moutarde",
+                "1 c.à.c de miel",
+                "3cl de jus de volaille",
+                "1 pincée de poivre",
+                "1 pincée de sel"
+            ],
+            "instructions": "1. Revenir échalote.\n2. Ajouter moutarde, miel.\n3. Allonger au jus de volaille, mijoter."
+        }
+    }
+}
